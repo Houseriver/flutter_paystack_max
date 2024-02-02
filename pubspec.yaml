@@ -5,7 +5,7 @@ version: 1.0.1
 homepage: "https://github.com/binemmanuel/flutter_paystack_max"
 
 environment:
-    sdk: "">=3.0.5 <4.0.0"
+    sdk: ">=3.0.5 <4.0.0"
     flutter: ">=1.17.0"
 
 dependencies:
